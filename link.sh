@@ -8,3 +8,4 @@ echo "Developers Update"
 
 This is stash check
 git stash
+git stash check
